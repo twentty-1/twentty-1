@@ -10,10 +10,17 @@
 
 ### Estadisticas de mi perfil !
 
-  ![Verlox's GitHub stats](https://github-readme-stats.vercel.app/api?username=twentty-1&show_icons=true&theme=radical)
+<!-- Contribution graph -->
+<p justify-content="center">
+ <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=twentty-1&theme=react-dark&custom_title=Contribution%20Graph">
+</p>
+<!-- stats profile -->
+<div align="justify">
+<img width="49%" src=https://github-readme-stats.vercel.app/api?username=twentty-1&show_icons=true&theme=dark&custom_title=twentty%20's%20Github%20Profile>
+<!-- Top languages -->
+<img width="49%" src=https://github-readme-stats.vercel.app/api/top-langs/?username=twentty-1&layout=compact&hide=roff,MATLAB&langs_count=8&theme=dark&custom_title=Top%20languages>
+</div>
 
-## Languages
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=twentty-1&layout=compact&text_color=FF9DD9&title_color=FF9DD9&bg_color=141321&count_private=true&include_all_commits=true&langs_count=10&hide_title" />
 
 ## Contador de visitas
 ![Visitor Count](https://profile-counter.glitch.me/twentty-1/count.svg)
