@@ -14,7 +14,12 @@
   
   
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31kh5ggnajgd6erzm75mln7fmnsa&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
-  
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/Twentty_Fran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_mattyeh" height="30" width="40" /></a>
+<a href="https://www.instagram.com/fran_twentty/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_mattyeh" height="30" width="40" /></a>
+
   
 # 📊Estadisticas de mi perfil !
 
