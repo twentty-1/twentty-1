@@ -8,7 +8,15 @@
 
  <img src="https://discord.c99.nl/widget/theme-4/963090626734350376.png" />
 
-### Estadisticas de mi perfil !
+  <h1 align="center">listening to spotify🎶 </h1>
+
+<div align="center">
+  
+  
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31kh5ggnajgd6erzm75mln7fmnsa&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+  
+  
+# 📊Estadisticas de mi perfil !
 
 <!-- Contribution graph -->
 <p justify-content="center">
