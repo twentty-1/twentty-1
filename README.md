@@ -2,6 +2,10 @@
 
 <div align="center">
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=cb204c&width=500&lines=Welcome" />
+</p>
+
  <img src="https://discord.c99.nl/widget/theme-4/963090626734350376.png" />
 
 ### Estadisticas de mi perfil !
