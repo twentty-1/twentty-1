@@ -13,7 +13,7 @@
 <div align="center">
   
   
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31kh5ggnajgd6erzm75mln7fmnsa&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=s4gjr8r60csbbk8ecrys0oo60&cover_image=true&theme=default&bar_color=7ff0d4&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=s4gjr8r60csbbk8ecrys0oo60&redirect=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
