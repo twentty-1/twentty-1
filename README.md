@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=cb204c&width=500&lines=Welcome" />
 </p>
 
- <img src="https://discord.c99.nl/widget/theme-4/963090626734350376.png" />
+ <img src="https://discord.c99.nl/widget/theme-4/991138909662756874.png" />
 
   <h1 align="center">listening to spotify🎶 </h1>
 
